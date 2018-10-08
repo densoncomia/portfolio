@@ -1,0 +1,59 @@
+body {
+	
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+	color; #fff;    
+	background-repeat: no-repeat; 
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	height: 100vh;
+
+}
+	h1 {font-size: 60px;
+		margin-bottom: 0;
+		text-transform: uppercase;
+		letter-spacing: 3px;
+		background-color: gray;
+		color: black;
+		/*font-family: 'Hi Melody', cursive;*/
+		font-family: 'Ewert', cursive;
+
+
+	}
+
+	h2{	text-transform: uppercase;
+		letter-spacing: 5px;
+		color: black;
+		font-family: 'Noto Serif KR', sans-serif;
+
+
+	}
+
+#meeee {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	border-width: 5px;
+	border-style: dotted;
+	border-color: black;
+	margin-top: 100px; 
+}
+
+.bio{
+	width: 100%;
+	font-size: 18px;
+	line-height: 1.8;
+	color: gray;
+	/*font-family: 'Gloria Hallelujah', cursive;*/
+	font-family: 'Creepster', cursive;
+	box-shadow: 5px 10px #888888;
+	letter-spacing: 2px;
+}
+
+.container{
+	width: 500px;
+	text-align: center;
+	margin: 0 auto;
+
+
+}
